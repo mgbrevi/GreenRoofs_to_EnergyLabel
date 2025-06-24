@@ -1,0 +1,9 @@
+Scenario,Type,Roof Type,Base Case,Roof Case,% Reduction
+Uninsulated,Heating,Green Roof,69.3,61.2,11.69
+Uninsulated,Cooling,Green Roof,13.9,10.9,21.58
+Insulated,Heating,Green Roof,53.4,53.8,-0.75
+Insulated,Cooling,Green Roof,13.2,12.1,8.33
+Uninsulated,Heating,Dry Green Roof,69.3,61.5,11.26
+Uninsulated,Cooling,Dry Green Roof,13.9,11,20.86
+Insulated,Heating,Dry Green Roof,53.4,53.9,-0.94
+Insulated,Cooling,Dry Green Roof,13.2,12.4,6.06
