@@ -9,7 +9,8 @@ This project investigates how retrofitting green roofs can improve the energy la
 - Apply empirical energy reduction percentages from literature (Virk et al., 2015)
 - Quantify how many buildings would improve their energy label after retrofitting
 
-<pre> ## Repository Structure ``` ├── CODE.ipynb # Main analysis notebook ├── data/ │ ├── Energy_Labels.csv # Building energy label classification │ ├── heating_coolig_reductions.csv # Scenario reduction percentages │ └── .gitkeep # Keeps folder in Git tracked ├── Brevi_2025.pdf # (Optional) Thesis report ├── README.md # This file ├── LICENSE # MIT License ``` </pre>
+## Repository Structure 
+``` ├── CODE.ipynb # Main analysis notebook ├── data/ │ ├── Energy_Labels.csv # Building energy label classification │ ├── heating_coolig_reductions.csv # Scenario reduction percentages │ └── .gitkeep # Keeps folder in Git tracked ├── Brevi_2025.pdf # (Optional) Thesis report ├── README.md # This file ├── LICENSE # MIT License ``` 
 
 
 
