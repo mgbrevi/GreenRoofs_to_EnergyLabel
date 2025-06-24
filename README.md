@@ -11,7 +11,14 @@ This project investigates how retrofitting green roofs can improve the energy la
 
 ## Repository Structure 
 ``` 
-├── CODE.ipynb # Main analysis notebook ├── data/ │ ├── Energy_Labels.csv # Building energy label classification │ ├── heating_coolig_reductions.csv # Scenario reduction percentages │ └── .gitkeep # Keeps folder in Git tracked ├── Brevi_2025.pdf # (Optional) Thesis report ├── README.md # This file ├── LICENSE # MIT License
+├── CODE.ipynb # Main analysis notebook
+├── data/
+│ ├── Energy_Labels.csv # Building energy label classification
+│ ├── heating_coolig_reductions.csv # Scenario reduction percentages
+│ └── .gitkeep # Keeps folder in Git tracked
+├── Brevi_2025.pdf # (Optional) Thesis report
+├── README.md # This file
+├── LICENSE # MIT License
 ``` 
 
 
