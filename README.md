@@ -33,7 +33,7 @@ The following datasets are included in the `/data/` folder:
 The main dataset is too large to upload here:
 
 > 🔗 Download `GR_unfiltered_energy_all_address.gpkg` from Google Drive:  
-> [Click here to download](https://drive.google.com/file/d/13_jKlsRL72F8jiIy8ZDA_F74d3wtT94/view?usp=sharing)  
+> [Click here to download](https://drive.google.com/file/d/1-3_jKlsRL72F8jiIy8ZDA_F74d3wtT94/view?usp=sharing)  
 > After downloading, place it in the root folder of the repo to run the notebook.
 
 ## Methodology Overview
