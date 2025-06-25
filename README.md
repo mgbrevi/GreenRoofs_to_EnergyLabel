@@ -63,7 +63,7 @@ You can also download the full thesis as a PDF here:
 Maria Graziella Brevi  
 MSc Data Science – Utrecht University 
 MSc Spatial Sustainability - University of Amsterdam 
-[LinkedIn](# www.linkedin.com/in/maria-graziella-brevi-2a9086198) | 📧 [mariagraziellabrevi@email.com]
+[LinkedIn](# www.linkedin.com/in/maria-graziella-brevi-2a9086198) | [mariagraziellabrevi@email.com]
 
 ---
 
