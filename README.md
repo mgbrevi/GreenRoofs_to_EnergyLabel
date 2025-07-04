@@ -56,7 +56,7 @@ The main dataset is too large to upload here:
 ## Thesis Report
 
 You can also download the full thesis as a PDF here:  
-[Brevi_2025.pdf](Brevi_2025.pdf) 
+[BREVI_2025.pdf](BREVI_2025.pdf)
 
 ## Author
 
